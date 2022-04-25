@@ -1869,6 +1869,7 @@ h1, h2, h3, h4, p, img, span, li{
 
 			#main article {
 				padding: 3rem 1.5rem 0.5rem 1.5rem ;
+				margin-bottom: 2rem;
 			}
 
 			#aboutme .skillList{
