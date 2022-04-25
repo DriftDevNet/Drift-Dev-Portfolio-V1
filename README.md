@@ -7,4 +7,12 @@
 <p align="center">
   The first iteration of <a href="https://driftdev.net" target="_blank">driftdev.net</a> built with HTML & CSS & JS. Inspired from <a href="https://html5up.net/" target="_blank">html5up-dimention</a>. Social media icons from <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>.
 
+
+##
+
+<h3 align="center">
+  <a href='http://driftdev.net'</a>
+  PREVIEW LINK
+</h3>
+
 ![demo](https://github.com/DriftDevNet/Drift-Dev-Portfolio-V1/blob/main/images/demo.png?raw=true)
